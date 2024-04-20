@@ -25,7 +25,7 @@ This endpoint allows a new user to register by providing their username, email, 
 
 #### Response
 ![OTP on Email](screenshots/otp_verification_on_email.png)
-![Register User Response](screenshots/verify_otp_response.png)
+![Register User Response](screenshots/register_user_generate_otp.png)
 
 ---
 
@@ -46,7 +46,7 @@ This endpoint is used to verify the OTP (One-Time Password) sent to the user's e
 ```
 
 #### Response
-![Verify OTP Response](screenshots/verify_otp_response.png)
+![Verify OTP Response](screenshots/verify_otp_validate_email.png)
 
 ---
 
@@ -119,7 +119,7 @@ This endpoint allows authenticated users to retrieve their account details, incl
 
 #### Response
 
-![Get Account Details Response](screenshots/get_account_response.png)
+![Get Account Details Response](screenshots/get_account_details.png)
 
 ---
 
