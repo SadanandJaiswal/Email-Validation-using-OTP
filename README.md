@@ -20,6 +20,7 @@ This endpoint allows a new user to register by providing their username, email, 
     "email": "kirankumar2003g@gmail.com",
     "password": "Kiran@123"
 }
+```
 
 
 #### Response
@@ -42,6 +43,7 @@ This endpoint is used to verify the OTP (One-Time Password) sent to the user's e
     "email": "kirankumar2003g@gmail.com",
     "otp": 691866
 }
+```
 
 #### Response
 ![Verify OTP Response](screenshots/verify_otp_response.png)
@@ -62,6 +64,7 @@ This endpoint allows registered users to log in to their accounts by providing t
     "email": "kirankumar2003g@gmail.com",
     "password": "Kiran@123"
 }
+```
 
 #### Response
 
@@ -99,6 +102,7 @@ This endpoint allows authenticated users to update their profile information, in
         }
     ]
 }
+```
 
 #### Response
 
