@@ -24,7 +24,9 @@ This endpoint allows a new user to register by providing their username, email, 
 
 
 #### Response
+OTP on Mail Screenshot
 ![OTP on Email](screenshots/otp_verification_on_email.png)
+PostMan api test response Screenshot
 ![Register User Response](screenshots/register_user_generate_otp.png)
 
 ---
